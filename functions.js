@@ -1,4 +1,6 @@
 //JQuery
+new text
+
 $(document).ready(function() {
 	
 	$(document).pngFix();
